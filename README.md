@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minu Priya</h1>
-<h2 align="center">An efficient software engineer with skills in HTML, CSS, JavaScript, Salesforce. Innovative, task-driven professional in web-designing, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.
+<h3 align="center">An efficient software engineer with skills in HTML, CSS, JavaScript, Salesforce. Innovative, task-driven professional in web-designing, proficent in developing databases, user interfaces, writing & testing Codes, and implementing the featured based on the feedback.</h3>
 <br/>
 
 Hi there 👋
