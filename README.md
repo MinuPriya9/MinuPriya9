@@ -4,7 +4,7 @@
 
 Hi there 👋
 - 🌱 I’m currently learning Blockchain and doing some projects on it.
-- 🛠️ Skill Set: Data Structures, Databases and Fronted Designing
+- 🛠️ Skill Set: MERN, Salesforce, Hedera
 - ⌨️ Programming: HTML, CSS, JavaScript, Solidity, Salesforce
 <h3 align="left">Connect with me:</h3>
 <p align="left">
